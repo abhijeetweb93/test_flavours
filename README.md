@@ -21,4 +21,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## run command
 flutter run --flavor prod
+
 flutter run --flavor dev
